@@ -1,5 +1,5 @@
 {
-  "name": "@mfbhatt/azure-push-notifications",
+  "name": "capacitor-azure-push-notifications",
   "version": "1.0.3",
   "description": "The Push Notifications API provides access to native Azure push notifications.",
   "main": "dist/plugin.cjs.js",
