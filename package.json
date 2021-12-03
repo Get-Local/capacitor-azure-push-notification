@@ -10,8 +10,7 @@
     "android/src/main/",
     "android/build.gradle",
     "dist/",
-    "ios/Plugin/",
-    "CapacitorPushNotifications.podspec"
+    "ios/Plugin/"
   ],
   "author": "mfbhatt@gmail.com",
   "license": "MIT",
